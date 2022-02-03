@@ -16,9 +16,10 @@ This repository contains all the materials of the presentation on the introducti
 In case you want to solidify a concept, or just want to go down further deep into .
 
 ### General Resources
-* Basic linux commands with examples : [link](https://www.guru99.com/must-know-linux-commands.html)  |
+* Basic linux commands with examples : [link](https://www.guru99.com/must-know-linux-commands.html)  
 * Linux Commands : [link]( [link](https://www.javatpoint.com/linux-commands) )  
 * An Introduction to Git and Github :[link](https://medium.com/the-underdog-writing-project/introduction-to-git-and-github-a5fdf5633923#:~:text=Simply%20put%2C%20Git%20is%20a,help%20you%20better%20manage%20them.)
 * Git and Github (Youtube): [link](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
+ 
  
