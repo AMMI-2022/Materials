@@ -1,6 +1,6 @@
 #  Materials for the Introduction in Python , Linux , Git and Github
 
-This repository contains all the materials of the presentation on the introduction of python, linux, git and Github. 
+This repository contains all the materials of the presentation on the introduction of python, linux, git, Github, Numpy and Pandas. 
 
  
 ## Resources
